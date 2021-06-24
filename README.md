@@ -30,4 +30,7 @@ Estou em busca de oportunidades. Tenho muita sede de conhecimento e estou sempre
     <a target='_blank' href="https://www.linkedin.com/in/breno-angelo-1005/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    <a href="https://brenoangelo.github.io/brenodev/" target="_blank">
+      <img src="https://img.shields.io/badge/-website-%5B?style=for-the-badge&logo=opel&logoColor=white" target="_blank">
+    </a>
 </div>
