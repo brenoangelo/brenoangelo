@@ -8,9 +8,9 @@ Estou em busca de oportunidades. Tenho muita sede de conhecimento e estou sempre
 #### 💡 "Cada adversidade, cada fracasso, cada dor de cabeça carrega consigo a semente de um benefício igual ou maior." - Napoleon Hill.
 <br>
 <div>
--     📍 Teresina PI
--     🖥️ Desenvolvedor Front-end jr
--     👇 Meus conhecimentos
+  <li>📍 Teresina PI</li>
+  <li>🖥️ Desenvolvedor Front-end jr</li>
+  <li>👇 Meus conhecimentos</li>
 </div>
 <br>
 <br>
