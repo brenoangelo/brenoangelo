@@ -6,19 +6,23 @@ Estou em busca de oportunidades. Tenho muita sede de conhecimento e estou sempre
 
 
 #### 💡 "Cada adversidade, cada fracasso, cada dor de cabeça carrega consigo a semente de um benefício igual ou maior." - Napoleon Hill.
+<br>
+<div>
 -     📍 Teresina PI
 -     🖥️ Desenvolvedor Front-end jr
 -     👇 Meus conhecimentos
-
-     <div style="display: inline_block">
-  <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
+</div>
 <br>
- 
-
+<br>
+<div style="display: inline_block">
+  <a href="https://github.com/brenoangelo">
+       <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+       <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+       <img align="center" alt="brenoangelo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+       <img align="center" alt="Breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+</div>
+<br>
 <div>
     <a target='_blank' href="https://www.instagram.com/brenodev/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
