@@ -1,8 +1,10 @@
 # Olá, Visitante 👋
 
-Meu nome é **Breno Ângelo**, estou no 5º período de Ciência da Computação. Sou apaixonado por tecnologia e jogos. Em 2020 me encontrei no **Front-end**, pois foi quando comecei a desenvolver sites com o CRM **WordPress**, e desde então estou estudando e me aprimorando nessa área que passei a gostar muito!
+🖥️ Me chamo **Breno Angelo**, sou estudante de Ciência da Computação, apaixonado por tecnologia e jogos. Em 2020 me encontrei no Front-end, pois foi quando comecei a desenvolver sites com o *WordPress* e me encantei com todas as possibilidades, me permitindo explorar uma característica minha que é a criatividade. Com essa ferramenta desenvolvi alguns projetos como: Sites institucionais, Ecommerces, Landingpages para meus clientes que tiveram seus negócios alavancados.
 
-Estou em busca de oportunidades. Tenho muita sede de conhecimento e estou sempre disposto a enfrentar novos desafios.
+📚 Sou uma pessoa com sede de conhecimento e crescimento. Pensando nisso, busquei investir em mim mesmo por meio de cursos, livros e equipando meu ambiente de estudo. Fui atrás de aprender o que acontece nos bastidores do front-end do WordPress. Com isso iniciei meus estudos em *Html, Css, JavaScript* e meus olhos brilharam perante a esse mundo que é a programação. Comecei a desenvolver projetos pessoais afim de aprender mais e aplicar meus conhecimentos desenvolvidos desde então.
+
+👨‍💻 Atualmente estou aprendendo *ReactJS e TypeScript*. Como disse no paragrafo acima, tenho sede de conhecimento e a cada dia que passa, busco me aprimorar mais e mais.
 
 
 #### 💡 "Cada adversidade, cada fracasso, cada dor de cabeça carrega consigo a semente de um benefício igual ou maior." - Napoleon Hill.
