@@ -9,20 +9,22 @@
 
 #### 💡 "Cada adversidade, cada fracasso, cada dor de cabeça carrega consigo a semente de um benefício igual ou maior." - Napoleon Hill.
 <br>
-<div>
-  <li>📍 Teresina PI</li>
-  <li>🖥️ Desenvolvedor Front-end jr</li>
-  <li>👇 Meus conhecimentos</li>
+<br>
+<div align="center">
+  <a href="https://github.com/brenoangelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoangelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoangelo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
-<br>
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/brenoangelo">
        <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Breno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
        <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-       <img align="center" alt="brenoangelo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+       <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
        <img align="center" alt="Breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
+  
 </div>
 <br>
 <div>
