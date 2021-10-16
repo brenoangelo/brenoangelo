@@ -3,7 +3,7 @@
 🖥️ Welcome to my repository, feel at home.
 
 <p>👨 Let me introduce myself...</p>
-<p>👨‍💻 I'm a Front-end jr developer at SenseData. I love games, fantasy books, content books, to program. 
+<p>👨‍💻 I'm a Front-end developer at SenseData. I love games, fantasy books, content books, to program. 
   I am a persistent person who only settles down when he does what has to be done.</p>
 <p>📚 I thirst for knowledge. I'm always learning something. Now i'm study TypeScript and ReactJS<p>
 
