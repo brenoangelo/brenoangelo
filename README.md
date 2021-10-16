@@ -1,13 +1,14 @@
-# Olá, Visitante 👋
+# Hello 👋
 
-🖥️ Me chamo **Breno Angelo**, sou estudante de Ciência da Computação, apaixonado por tecnologia e jogos. Em 2020 me encontrei no Front-end, pois foi quando comecei a desenvolver sites com o *WordPress* e me encantei com todas as possibilidades, me permitindo explorar uma característica minha que é a criatividade. Com essa ferramenta desenvolvi alguns projetos como: Sites institucionais, Ecommerces, Landingpages para meus clientes que tiveram seus negócios alavancados.
+🖥️ Welcome to my repository, feel at home.
 
-📚 Sou uma pessoa com sede de conhecimento e crescimento. Pensando nisso, busquei investir em mim mesmo por meio de cursos, livros e equipando meu ambiente de estudo. Fui atrás de aprender o que acontece nos bastidores do front-end do WordPress. Com isso iniciei meus estudos em *Html, Css, JavaScript* e meus olhos brilharam perante a esse mundo que é a programação. Comecei a desenvolver projetos pessoais afim de aprender mais e aplicar meus conhecimentos desenvolvidos desde então.
+<p>👨 Let me introduce myself...</p>
+<p>👨‍💻 I'm a Front-end jr developer at SenseData. I love games, fantasy books, content books, to program. 
+  I am a persistent person who only settles down when he does what has to be done.</p>
+<p>📚 I thirst for knowledge. I'm always learning something. Now i'm study TypeScript and ReactJS<p>
 
-👨‍💻 Atualmente estou aprendendo *ReactJS e TypeScript*. Como disse no paragrafo acima, tenho sede de conhecimento e a cada dia que passa, busco me aprimorar mais e mais.
 
-
-#### 💡 "Cada adversidade, cada fracasso, cada dor de cabeça carrega consigo a semente de um benefício igual ou maior." - Napoleon Hill.
+#### 💡 "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit." - Napoleon Hill.
 <br>
 <br>
 <div align="center">
