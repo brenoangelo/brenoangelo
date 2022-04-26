@@ -5,7 +5,7 @@
 <p>👨 Let me introduce myself...</p>
 <p>👨‍💻 I'm a Front-end developer at SenseData. I love games, fantasy books, content books, to program. 
   I am a persistent person who only settles down when he does what has to be done.</p>
-<p>📚 I thirst for knowledge. I'm always learning something. Now i'm study TypeScript and ReactJS<p>
+<p>📚 I thirst for knowledge. I'm always learning something. Now i'm study TypeScript, ReactJS and NextJS<p>
 
 
 #### 💡 "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit." - Napoleon Hill.
